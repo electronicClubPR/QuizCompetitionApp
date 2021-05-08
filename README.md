@@ -1,6 +1,12 @@
 # μMora Quiz application
 
-Web application for μMora Mathematics competition 2020 created by Tharindu Niranjan, Pulasthi Ekanayake, Nusri Nalir and Sandeepa Devin.
+Web application for μMora Mathematics competition 2020 created by Tharindu Niranjan, Pulasthi Ekanayake, Nusri Nalir and Sandeepa Devin. Supports multiple languages and latex for attractive rendering of mathematics problems. 
+<img src="uMora-login-page.png">
+<p float="left">
+  <img src="uMora-quiz-page.png" width="33%" />
+  <img src="uMora-quiz-page-sinhala.png" width="33%" /> 
+  <img src="uMora-quiz-page-tamil.png" width="33%" />
+</p>
 
 ### Prerequisites
 
